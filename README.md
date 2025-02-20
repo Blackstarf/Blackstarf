@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </div>
