@@ -1,3 +1,7 @@
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=cptfrosty">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/cptfrosty?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 # About me 🌟
 
 Привет! Меня зовут Blackstarf.  
@@ -20,8 +24,6 @@
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Blackstarf&show_icons=true&theme=dark)
 
 ![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackstarf&layout=compact&theme=dark)
-
-![Стрики](https://streak-stats.demolab.com/?user=Blackstarf&theme=dark)
 
 ---
 
