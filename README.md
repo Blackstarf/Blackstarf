@@ -13,7 +13,6 @@
 </div>
 
 ---
-
 # GitHub Stats 📊
 
 <table>
