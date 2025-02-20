@@ -2,14 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=cptfrosty">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/cptfrosty?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-# About me 🌟
-
-Привет! Меня зовут Blackstarf.  
-- 🎮 Люблю играть в видеоигры и настольные игры.  
-- 👨‍💻 Увлекаюсь разработкой игр и программированием.  
-- � Состою в команде инди-разработчиков.  
-
----
 
 # Languages and Tools 🛠️
 
