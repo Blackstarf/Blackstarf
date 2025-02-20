@@ -1,6 +1,6 @@
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=cptfrosty">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/cptfrosty?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Blackstarf">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Blackstarf?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 # Languages and Tools 🛠️
@@ -13,12 +13,19 @@
 
 # GitHub Stats 📊
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=Blackstarf&show_icons=true&theme=dark)
-
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackstarf&layout=compact&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Blackstarf&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackstarf&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# Контакты 📫
+# Contacts 📫
 
 - [GitHub](https://github.com/Blackstarf)
