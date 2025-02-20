@@ -4,13 +4,13 @@
 </p>
 
 # Languages and Tools 🛠️
-<p align='center'>
-  ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-</p>
-
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+</div>
 ---
 
 # GitHub Stats 📊
