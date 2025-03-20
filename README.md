@@ -29,9 +29,3 @@
     </td>
   </tr>
 </table>
-
----
-
-# Contacts 📫
-
-- [GitHub](https://github.com/Blackstarf)
